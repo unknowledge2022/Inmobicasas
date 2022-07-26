@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inmobicasas</string>
+
+    <string name="message_location">La aplicación esta haciendo uso de la ubicación</string>
+    <string name="my_location">Mi Posición</string>
+
+    <string name="username">Nombre de Usuario</string>
+
+    <string name="default_notification_channel_id" translatable="false">Inmobicasas_channel</string>
+    <string name="default_notification_foreground_channel_id" translatable="false">Inmobicasas_channel_foreground</string>
+    <string name="default_notification_channel_description" translatable="false">Inmobicasas Channel</string>
+
+
+    <!-- Google ID -->
+    <string name="google_map_key" translatable="false">AIzaSyChRkxp-GaIOHHq2awBFJFYnM6VJbVuv7s</string>
+</resources>

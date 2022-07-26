@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971399373619",
+    "firebase_url": "https://inmobicasas-9f8d5-default-rtdb.firebaseio.com",
+    "project_id": "inmobicasas-9f8d5",
+    "storage_bucket": "inmobicasas-9f8d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971399373619:android:1fa239f7058740f81f5446",
+        "android_client_info": {
+          "package_name": "com.inmobicasas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971399373619-r5o9bhr413eb7bdnkjteloja8q30b5v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inmobicasas",
+            "certificate_hash": "e1b1f257bfa0fac30e90d8d25d564baeefd4ec90"
+          }
+        },
+        {
+          "client_id": "971399373619-u3215rklga0i56akb51ngeufp3b4he6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD36oVHth6eF4vX7XqHU-eyHgvkeFR0uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971399373619-u3215rklga0i56akb51ngeufp3b4he6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
