@@ -12,5 +12,5 @@
 
 
     <!-- Google ID -->
-    <string name="google_map_key" translatable="false">AIzaSyChRkxp-GaIOHHq2awBFJFYnM6VJbVuv7s</string>
+    <string name="google_map_key" translatable="false"></string>
 </resources>
