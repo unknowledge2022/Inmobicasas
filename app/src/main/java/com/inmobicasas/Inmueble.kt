@@ -5,7 +5,8 @@ import java.io.Serializable
 
 @IgnoreExtraProperties
 data class Inmueble(
-    val Contacto: Int? = null,
+    val contacto: Int? = null,
+    val departamento: String? = null,
     val ciudad: String? = null,
     val descripcion: String? =null,
     val estacionamiento: String? =null,
@@ -18,8 +19,7 @@ data class Inmueble(
     val shortdesc: String? =null,
     val superficie: Double? =null,
     val tipo: String? =null,
-    val accuracy: Double? = null,
-    val username: String? = null
+    val url: String? = null
 ) : Serializable {
 
 }

@@ -3,10 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.183" />
         <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/background.xml" value="0.1165" />
-        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/custom_spinner.xml" value="0.1715" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/ic_baseline_house.xml" value="0.183" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/ic_baseline_map_24_map.xml" value="0.1475" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/ic_baseline_settings_24_conf.xml" value="0.1175" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.183" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/drawable/ic_pinnerhouse.xml" value="0.183" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/activity_map.xml" value="0.24066924066924067" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/activity_recycler_view.xml" value="0.23007246376811594" />
         <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/activity_splash.xml" value="0.17135416666666667" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/item_inmueble.xml" value="0.428380187416332" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/layout/toolbar.xml" value="0.4" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/menu/menu_main.xml" value="0.2" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.183" />
+        <entry key="..\:/Personal/Freelance/Diplomado/Modulo4/Inmobicasas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_houseclaro.xml" value="0.103" />
       </map>
     </option>
   </component>

@@ -11,8 +11,11 @@
     <!-- Theme colors -->
     <color name="primaryLigth">#5472d3</color>
     <color name="primary">#0d47a1</color>
-    <color name="primaryDark">#002171</color>
+    <color name="primaryDark">#1a1965</color>
 
     <!-- Other colors -->
     <color name="gray">#333333</color>
+    <color name="texto_negro">#414963</color>
+    <color name="texto_gris">#A1A3A8</color>
+    <color name="line_gray">#E8E8E8</color>
 </resources>

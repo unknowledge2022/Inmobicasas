@@ -4,12 +4,81 @@
     <string name="message_location">La aplicación esta haciendo uso de la ubicación</string>
     <string name="my_location">Mi Posición</string>
 
+    <string name="mapa">Mapa</string>
+    <string name="config">Configuración</string>
     <string name="username">Nombre de Usuario</string>
 
     <string name="default_notification_channel_id" translatable="false">Inmobicasas_channel</string>
     <string name="default_notification_foreground_channel_id" translatable="false">Inmobicasas_channel_foreground</string>
     <string name="default_notification_channel_description" translatable="false">Inmobicasas Channel</string>
 
+
+    <string-array name="departamentos">
+        <item>Santa Cruz</item>
+        <item>Beni</item>
+        <item>Chuquisaca</item>
+        <item>Cochabamba</item>
+        <item>La Paz</item>
+        <item>Oruro</item>
+        <item>Pando</item>
+        <item>Potosí</item>
+        <item>Tarija</item>
+    </string-array>
+
+    <string-array name="ciudadessantacruz">
+        <item>Santa Cruz de la Sierra</item>
+        <item>Camiri</item>
+        <item>Montero</item>
+        <item>Vallegrande</item>
+        <item>San Ignacio de Velasco</item>
+        <item>Comarapa</item>
+        <item>San José de Chiquitos</item>
+        <item>Lagunillas</item>
+        <item>Samaipata</item>
+        <item>Cotoca</item>
+        <item>Guabirá</item>
+        <item>Puerto Quijarro</item>
+        <item>Portachuelo</item>
+        <item>Buena Vista</item>
+        <item>Cuevo</item>
+        <item>San Juan de Yapacaní</item>
+        <item>Puerto Suárez</item>
+        <item>Charagua</item>
+        <item>Warnes</item>
+        <item>La Guardia</item>
+        <item>Puerto Busch</item>
+    </string-array>
+
+    <string-array name="ciudadescbba">
+        <item>Alalay</item>
+        <item>Aiquile</item>
+        <item>Bolívar</item>
+        <item>Capinota</item>
+        <item>Cochabamba</item>
+        <item>Cliza</item>
+        <item>Entre Ríos</item>
+        <item>Mizque</item>
+        <item>Punata</item>
+        <item>Quillacollo</item>
+        <item>Sacaba</item>
+        <item>Sipe Sipe</item>
+        <item>Tarata</item>
+        <item>Totora</item>
+        <item>Vinto</item>
+    </string-array>
+
+    <string-array name="tipo">
+        <item>Casa</item>
+        <item>Departamento</item>
+        <item>Lote</item>
+    </string-array>
+
+    <string-array name="criterio">
+        <item>Departamento</item>
+        <item>Ciudad</item>
+        <item>Tipo</item>
+        <item>Precio</item>
+    </string-array>
 
     <!-- Google ID -->
     <string name="google_map_key" translatable="false">AIzaSyChRkxp-GaIOHHq2awBFJFYnM6VJbVuv7s</string>

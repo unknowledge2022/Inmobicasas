@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+     <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_baseline_map_24_map"
+        android:orderInCategory="100"
+        android:title="@string/mapa"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_config"
+        android:icon="@drawable/ic_baseline_settings_24_conf"
+        android:orderInCategory="100"
+        android:title="@string/config"
+        app:showAsAction="ifRoom" />
+
+</menu>
