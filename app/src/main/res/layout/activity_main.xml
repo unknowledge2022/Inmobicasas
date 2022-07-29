@@ -58,7 +58,7 @@
 
         <Button
             android:id="@+id/btnMotrarRV"
-            android:layout_width="300dp"
+            android:layout_width="400dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:text="Mostrar Lista de Resultados"
@@ -131,7 +131,7 @@
 
         <Button
             android:id="@+id/btnResultadosDepto"
-            android:layout_width="300dp"
+            android:layout_width="400dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:text="Mostrar Mapa"

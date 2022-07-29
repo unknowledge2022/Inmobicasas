@@ -49,12 +49,9 @@ class MapActivity : AppCompatActivity() {
             .findFragmentById(R.id.mapFragment) as SupportMapFragment
         myLatLong = LatLng(.0, 0.0)
 
-
         arrayList = intent?.extras?.getSerializable("Ubicaciones") as ArrayList<Inmueble>
 
-
         mostrarMarkers()
-
     }
 
     fun mostrarMarkers(){
